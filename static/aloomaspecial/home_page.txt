@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Why is poor wastewater management harmful to both the environment and my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Poor wastewater management messes up the surface and also causes contaminated water to seep underground, polluting the soil and groundwater. Over time, this can damage your property’s foundation, harm surrounding vegetation, and pose serious health risks to you and your community. A well-installed septic setup will prevent this.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">How does a properly installed septic system move wastewater from my property to the drain field?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A properly installed septic system makes wastewater flow precisely from your home or business into the septic tank, where the solids settle and the liquid continues to the drain field. The drainfield filters it through layers of soil until it safely and cleanly joins the groundwater. But this process only works flawlessly when every detail is done right, and that’s exactly what we deliver at Devine Septic Service.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">What steps does Devine Septic Service take to ensure a septic tank installation meets USA regulations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our installation service is designed to give clients peace of mind, knowing they’ll have a proper wastewater management solution that lasts without the hassle of paperwork. We handle correct tank sizing and proper placement to secure all necessary permits and make sure your system passes inspections, keeping it fully compliant from day one.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Can a failing septic system always be repaired, or will I need a full replacement?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A failing septic system doesn’t always mean you need to rebuild the entire setup. In many cases, it’s simply a matter of sealing a crack, replacing damaged pipes, or reshaping the soil so water drains exactly where it should.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">How often should I schedule routine septic inspections with Devine Septic Service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For most properties, we recommend having a full septic inspection every 1 to 3 years. However, properties that generate large amounts of wastewater or rely on older septic systems will need inspections more frequently.</p>
+                <div class="callalooma mx-auto"><a href="tel:208-487-4868">Click Here To Call Us (208) 487-4868</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
